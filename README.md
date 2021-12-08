@@ -4,7 +4,7 @@ This is a chat app built utilzing Sockets, hooks, api, props, js.   React Chat e
 
 Dependencies installed: @ant-design/icons, axios, react-chat-engine
 
-I signed up on https://chatengine.io, copied my Project ID, once in, after  registration, and pasted in my App.js ChatEngine component already imported to your App.js file.
+I signed up on https://chatengine.io, copied my Project ID, once in, after  registration, and pasted in my App.js ChatEngine component already imported to your App.js file. From the site, I also created a user, and also created a chat, which I then copied their ID to my App.js. However, this is not enough to make my user creation and chat dynamic. Hence, I had to throw in some codes in App.js to allow such dynamics.
 
 I created an App.css that I imported in my App.js to customize my styling.
 
