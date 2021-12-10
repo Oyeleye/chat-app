@@ -2,7 +2,8 @@
 <a href="https://chat-app-ea6c6.firebaseapp.com/">Welcome to my chat app built with React!</a>
 </h2>
 
-![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
+<img src="src/images/chatappImg.jpeg" title="chatappImage" />
+
 
 This is a chat app built utilzing Sockets, hooks, api, props, js.   React Chat engine
 
